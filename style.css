@@ -1,0 +1,6 @@
+body {
+    background-color: #262;
+    color: whitesmoke;
+    display: grid;
+    place-content: center;
+}
